@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna-pm
-- 👀 I’m interested in UI/UX design,graphic design,web development and App development. 
-- 🌱 I’m currently learning Figma,Adobe Photoshop,Adobe illustrator and Flutter. 
+- 👀 I’m interested in UI/UX design and Web development 
+- 🌱 I’m currently learning Figma and Angular
 
 
 <!---
