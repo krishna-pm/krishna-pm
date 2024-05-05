@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna-pm
-- 👀 I’m interested in UI/UX design and Web development 
-- 🌱 I’m currently learning Figma and Angular
+- 👀 I’m a python django fullstack developer
+- 🌱 I’ve proficiency in Python,Django,HTML/CSS,Javascript,Bootstrap,mySQL and Angular
 
 
 <!---
