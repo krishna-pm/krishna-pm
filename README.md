@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna-pm
 - 👀 I’m a Java developer
-- 🌱 I’ve proficiency in Java,Python,Django,HTML/CSS,Javascript,Bootstrap,mySQL and Angular
+- 🌱 I’ve proficiency in Java,SpringBootPython,Django,HTML/CSS,Javascript,Bootstrap and mySQL
 
 
 <!---
